@@ -1,0 +1,6 @@
+{
+  "name": "ANYKING Single Screen Series",
+  "description": "Premium product category showcase and mechanical unfolding experience for ANYKING Single Screen portable monitors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
